@@ -5,6 +5,11 @@ body, html {
   color: #fff;
 }
 
+body {
+  background-color: black;
+  background-size: cover;
+}
+
 #vanta {
   z-index: 0;
   position: absolute;
